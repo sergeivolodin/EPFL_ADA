@@ -1,0 +1,3 @@
+[submodule "00 - Optional homework/guns-data"]
+	path = 00 - Optional homework/guns-data
+	url = git@github.com:fivethirtyeight/guns-data.git
